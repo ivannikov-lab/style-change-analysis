@@ -1,0 +1,22 @@
+{
+  "task": "",
+  "model": {
+    "name": "",
+    "hyperparams": [],
+    "trainable": false
+ },
+  "use_vectors": false,
+  "features": {
+    "selection": false,
+    "pca": false
+ },
+  "datasets": {
+    "test": ["/"]
+ },
+  "outputDir": "/",
+  "resultDir": "/",
+  "vectorsDir": "/"
+}
+
+
+
