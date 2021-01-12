@@ -1,0 +1,7 @@
+file:personalLibrary/preprocess_NLP_pkg-0.0.1.tar.gz#egg=preprocess_NLP_pkg
+sklearn
+nltk
+numpy
+inflect
+networkx
+stanza
