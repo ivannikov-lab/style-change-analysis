@@ -38,4 +38,4 @@ c) **Sentence level** features consist of morphological and syntactic features a
 
 d) **Paragraph level** readability features: Flesch reading ease, SMOG grade, Flesch-Kincaid grade, Coleman-Liau index, automated readability index, Dale-Chall readability score, difficult words, Linsear write formula and Gunning fog.
 
-For more details about the models and dataset construction, refer to the [paper]().
+For more details about the models and dataset construction, refer to the [paper](https://doi.org/10.15514/ISPRAS-2021-33(1)-14).
